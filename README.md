@@ -17,7 +17,7 @@ npm run dev
 - Export entries to CSV or PDF
 - Responsive UI with Tailwind CSS
 - Client-side routing
-- **Per-user persistence**: entries are saved under `entries_<email>` key
+- Per-user persistence: entries are saved under `entries_<email>` key
 
 ## Build
 ```bash
